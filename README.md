@@ -226,7 +226,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output  :
- 
+ ![exp2 output](https://user-images.githubusercontent.com/119417735/227854341-0ee0b32e-06fb-40a2-ae99-1acf43f03028.png)
+
  
  
  
